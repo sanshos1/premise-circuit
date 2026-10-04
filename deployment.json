@@ -1,0 +1,11 @@
+{
+  "network": "StudioNet",
+  "account": "sanshos1",
+  "contractAddress": "0x899F1B7235F8A87f749F43FBd0C944f7a31E001F",
+  "deploymentTransaction": "0x3e70065d63c6a4294ca7300844b6cd109c80c6a13d1254e9b80fa19e8d87a8b8",
+  "deploymentConsensus": "MAJORITY_AGREE",
+  "deploymentExecution": "SUCCESS",
+  "sourceSha256": "d89b87742279bc955609da6298ba2c7fe185cc6ddd5972ec41e177014e280d48",
+  "sourceCommit": "547b0ad606bcb3d1d30704d0828dec4709e67210",
+  "repository": "https://github.com/sanshos1/premise-circuit"
+}

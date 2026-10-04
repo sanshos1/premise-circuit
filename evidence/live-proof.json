@@ -1,0 +1,86 @@
+{
+  "circuitId": "ROUTE-1791073000",
+  "transactions": {
+    "open": "0x3d6c2e56b6ed5fef7ddbd8886321e2f6784dd228fd20ae2f5ab986de26b755f8",
+    "audit": "0x93f6f79da6441746a09fce9a03f9c208bd375e5f556d38bcffbba109213905f5"
+  },
+  "state": {
+    "auditor": "0xCAFA30BF94D4fb01146588a1b7901BD85E7DbD0f",
+    "citations": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ]
+    ],
+    "digests": [
+      "e8c83cb090e49caf1766666ed9f6d612dc3cafc6e535a155301e2e93b9a7acda",
+      "9b25ea410174f64889fbb718fd1e108f29e718cfcac7d4182d8a712906421f05"
+    ],
+    "direct_contradicted": [],
+    "direct_supported": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "direct_unknown": [],
+    "edges": [
+      [
+        0,
+        4
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        4
+      ]
+    ],
+    "id": "ROUTE-1791073000",
+    "node_states": [
+      "SUPPORTED",
+      "SUPPORTED",
+      "SUPPORTED",
+      "SUPPORTED",
+      "SUPPORTED"
+    ],
+    "owner": "0xAD049E0Edc298C97552eD60071a35bfc60181FD4",
+    "premises": [
+      "The east entrance is level and has no stairs",
+      "The automatic doorway provides at least 1.2 meters of clear width",
+      "The corridor remains firm and at least 1.2 meters wide",
+      "A wide security gate connects directly to the level corridor",
+      "The complete route preserves wheelchair access through screening"
+    ],
+    "sources": [
+      "https://raw.githubusercontent.com/sanshos1/premise-circuit/main/evidence/record-a.md",
+      "https://cdn.jsdelivr.net/gh/sanshos1/premise-circuit@main/evidence/record-b.md"
+    ],
+    "state": "VERIFIED",
+    "title": "Wheelchair route continuity"
+  },
+  "walletDisclosure": "Both evidence files and wallets are operator-controlled technical fixtures."
+}
